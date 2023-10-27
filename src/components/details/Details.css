@@ -1,0 +1,112 @@
+.detailstotal {
+  padding: 0 20px;
+}
+.detailstotal p {
+  font-size: 20px;
+  color: #992c20;
+  font-family: "Rye";
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+.detailimg {
+  width: 500px;
+  height: 350px;
+}
+.detailimg img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+.votestartdetails {
+  display: flex;
+  gap: 10px;
+  margin: 30px 0;
+}
+.votestartdetails2 p {
+  margin: 0;
+}
+.detailspay {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 50px;
+}
+.detailspay1 p {
+  margin: 0;
+}
+.btnmaddtocart {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+.btnmaddtocart button {
+  width: 150px;
+  padding: 10px 0;
+  border: 1px solid green;
+  border-radius: 10px;
+  background-color: rgba(0, 128, 0, 0.244);
+  color: green;
+  cursor: pointer;
+  font-family: "Rye";
+}
+.btnmaddtocart button:hover {
+  background-color: green;
+  color: white;
+}
+.detailstable {
+  width: 100%;
+  border-collapse: collapse;
+}
+.detailstable tr th {
+  border-bottom: 2px solid black;
+}
+.detailstable tr td {
+  border-bottom: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+.escriptiondetails p:nth-child(2) {
+  font-size: 15px;
+  color: black;
+}
+.escriptiondetails p:nth-child(1) {
+  margin-top: 35px;
+}
+.reviewsstart {
+  margin-top: 10px;
+}
+.reviewsstart1 {
+  display: flex;
+  justify-content: center;
+}
+.reviewsstart2 {
+  text-align: center;
+}
+
+.reviewsstart2 p {
+  margin: 10px 0;
+}
+.votestart {
+  display: flex;
+  justify-content: center;
+}
+.votestart button {
+  width: 150px;
+  padding: 10px 0;
+  border: 1px solid green;
+  border-radius: 10px;
+  background-color: rgba(0, 128, 0, 0.244);
+  color: green;
+  cursor: pointer;
+  font-family: "Rye";
+}
+.votestart button:hover {
+  background-color: green;
+  color: white;
+}
+.hightlow p {
+  font-size: 16px;
+  color: black;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin: 0;
+}
